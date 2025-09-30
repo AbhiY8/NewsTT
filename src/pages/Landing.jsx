@@ -40,7 +40,7 @@ export default function Landing() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
               officia quasi exercitation quiz, eligendi temp provident at
               explicabo accusamus fugiat adipisci at maiores, asperiores animal!
-              Amet ut autem non reign tempobus.
+              Amet at autem non reign tempobus.
             </h5>
             <button className="mt-4 w-1/3 p-2 bg-blue-600 text-sm rounded-lg ">
               Read More
