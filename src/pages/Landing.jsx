@@ -39,7 +39,7 @@ export default function Landing() {
             <h5 className="line-clamp-4 leading-5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
               officia quasi exercitation quiz, eligendi temp provident at
-              explicabo accusamus fugiat adipisci at maiores, asperiores animal!
+              explicabo accusamus fugiat adipisci at maiores, asperiores animal
               Amet at autem non reign tempobus.
             </h5>
             <button className="mt-4 w-1/3 p-2 bg-blue-600 text-sm rounded-lg ">
