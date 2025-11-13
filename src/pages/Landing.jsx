@@ -18,7 +18,7 @@ export default function Landing() {
             <h4 className="my-2 font-semibold text-lg">News Heading</h4>
             <h5 className="line-clamp-4 leading-5">
               Lorem ipsum dolor sit amet consectetur adipisicing elite. Beatae
-              official quasi exercitationem quiz, eligendi tempora provident
+              official quasi exercitation quiz, eligendi tempora provident
               explicabo accusamus at fugiat adipisci at maiores, asperiores animal
               Amit at autem not reiciendis temporibus.
             </h5>
