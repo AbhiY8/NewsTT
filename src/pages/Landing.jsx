@@ -20,7 +20,7 @@ export default function Landing() {
               Lorem ipsum dolor suit Amit consectetur adipisicing elite. Beatel
               officially quasi at exercitation quiz, and eligen temporal provident
               explicabo accusamus bugati adipisci at maiores, asperiores animal
-              Amit at autem not reiciendis dolor suit eligen official temporibus.
+              Amit at autem not reiciendis dolor suit eligen officiall temporibus.
             </h5>
             <button className="mt-4 w-1/3 p-2 bg-blue-600 text-sm rounded-lg ">
               Read More
