@@ -37,7 +37,7 @@ export default function Landing() {
           <div className="pl-3">
             <h4 className="my-2 font-semibold text-lg">News Heading</h4>
             <h5 className="line-clamp-4 leading-5">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
+              Lorem ipsum dolor sit Amet consectetur adipisicing elit. Beatae
               official quasi exercitation quiz, eligendi temp provident at
               explicabo accusamus fugiat adipisci at maiores, asperiores animal
               Amet at autem non resign tempobus.
